@@ -167,7 +167,7 @@ option{
 }
 
 .c1{
-  width: 1000px;
+  width: 100%;
   height: auto;
   margin: 0 auto;
   margin-top: 50px;
@@ -178,7 +178,7 @@ option{
 }
 
 .c2{
-  width: 1000px;
+  width: 100%;
   height: auto;
   margin: 0 auto;
   margin-top: 50px;
